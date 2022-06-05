@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    color: white;
+}
+
+body {
+    background-color: #1F2937;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+p {
+    margin-top: 10px;
+    color: #D2D2D2;
+}
+
+#hero {
+    height: 550px;
+    background-image: linear-gradient(#18244A,#3B69E1);
+    margin-bottom: 40px;
+}
+
+#hero-title {
+    font-size: 25px;
+}
+
+#hero-number {
+    margin-top: 55px;
+    margin-bottom: 20px;
+    font-size: 170px;
+}
+
+#submit {
+    margin-top: 0;
+}
