@@ -9,10 +9,9 @@ let volume = ""
 let mass = ""
 
 // Display initial numbers on first load
-let number = 0
-number = 25
-displayNumber.innerText = 25
-calculations(25)
+let number = 25
+displayNumber.innerText = number
+calculations(number)
 
 submitted.addEventListener("click", function() {
     displayNumber.innerText = userInput
