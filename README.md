@@ -4,7 +4,7 @@
 
 You can see and use this website here: http://rodericksang.com/unit-converter/
 
-This is a finished Scrimba solo project on making a website to convert different units of measure.
+This is a finished Scrimba solo project on making a website to convert different units of measure. This is done from the old version of the Unit Converter challenge before it was replaced by a newer version on June 9th, 2022.
 
 The constraints of the project are met, which were to create a website following [this design shown on Figma](https://www.figma.com/file/AdqUVRQCZGP1zRcEvzmJTm/Unit-Conversion?node-id=0%3A13) with flexibility to use our own gradient colors. We were to use just vanilla javascript, no frameworks.
 
